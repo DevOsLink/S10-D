@@ -1,0 +1,4 @@
+1|Pizza|13.0|Comida Italiana
+2|Chaulafan|5.0|Comida China
+3|Spagueti|2.2|Comida Italiana
+4|Arroz festival|3.0|Cominda Rapida
